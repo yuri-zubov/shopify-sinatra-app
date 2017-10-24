@@ -17,7 +17,7 @@ Gem::Specification.new do |s|
   s.add_runtime_dependency 'sinatra-redis', '~> 0.3.0'
   s.add_runtime_dependency 'sinatra-activerecord', '~> 2.0.9'
   s.add_runtime_dependency 'rack-flash3', '~> 1.0.5'
-  s.add_runtime_dependency 'activesupport', '~> 4.1.1'
+  s.add_runtime_dependency 'activesupport', '~> 4.1'
   s.add_runtime_dependency 'attr_encrypted', '~> 1.3.2'
 
   s.add_runtime_dependency 'resque', '~> 1.25.2'
